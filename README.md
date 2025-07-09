@@ -3,7 +3,7 @@
 
 Ссылка на проект https://web.telegram.org/k/#@norodnyeokna_bot
 
-[Скриншот 1](https://github.com/justniceigor/learning_zerocoder_intensive/blob/main/Снимок%20экрана%202025-07-09%20210026.png)
+![Скриншот](https://github.com/justniceigor/learning_zerocoder_intensive/blob/main/Снимок%20экрана%202025-07-09%20210026.png)
 
 ---
 
