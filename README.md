@@ -1,6 +1,8 @@
 # learning_zerocoder_intensive
 Конечно! Ниже приведено подробное описание проекта в формате Markdown.
 
+Ссылка на проект https://web.telegram.org/k/#@norodnyeokna_bot
+
 ---
 
 # ИИ-ассистент для компании по установке окон
